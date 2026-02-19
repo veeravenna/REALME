@@ -1,0 +1,6 @@
+Hello World!
+
+This is my first file created on GitHub.
+Created on: February 19, 2026
+
+Welcome to my repository!
